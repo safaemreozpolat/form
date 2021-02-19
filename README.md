@@ -1,5 +1,5 @@
 # Form
--Ad Soyad 
--Email  Adresi
--Mesajınız 
--Bilgilerini barındıran bir form mevcuttur.
+Ad Soyad <br>
+Email  Adresi <br>
+Mesajınız  <br>
+Bilgilerini barındıran bir form mevcuttur.
